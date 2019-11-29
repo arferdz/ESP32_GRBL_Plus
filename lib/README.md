@@ -78,6 +78,9 @@ arduino-esp32 includes libraries for Arduino compatibility along with some objec
 
 ### SPIFFS
   SPI Flash Filesystem (see [spiffs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin) to upload to device)
+  
+### TFT_eSPI
+An Arduino IDE compatible graphics and fonts library for ESP8266 and ESP32 processors 
 
 ### Ticker
   A timer to call functions on an interval
