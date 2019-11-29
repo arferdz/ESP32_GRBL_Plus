@@ -54,6 +54,9 @@ arduino-esp32 includes libraries for Arduino compatibility along with some objec
 
 ### HTTPUpdate
   Download a firmware update from HTTPd and apply it using Update
+  
+### LittlevGL
+  LittlevGL provides everything you need to create a Graphical User Interface (GUI) on embedded systems.
 
 ### NetBIOS
   NetBIOS name advertiser
